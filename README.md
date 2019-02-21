@@ -5,3 +5,7 @@ This repo explains an approach to implement a “Hand Geometry based entity Iden
 
 
 It presents an example of a complete data science process from data preparation to classifier selection and data visualizations.
+
+
+
+[Adapted into a Medium post.](https://medium.com/@shahamfarooq/sample-hand-geometry-biometric-identification-system-b122446e3fdb)
